@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean class="com.springcore.collections.Emp" name="emp1" >
+        <property name="empName">
+            <value >Avi</value>
+        </property>
+        <property name="phoneNum">
+            <list>
+                <value>10001</value>
+                <value>1002</value>
+                <value>1003</value>
+            </list>
+        </property>
+
+    </bean>
+</beans>
