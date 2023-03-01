@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="310f4c97-ee1e-4b16-93ea-45b6a933bfde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/collections/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/collections/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/conInj/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/conInj/testCi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/ref/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/ref/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/ref/testcheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ciconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/collectionsconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/refconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +59,26 @@
       <recent name="D:\SpringProjeccts\springcore\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MainSamosa">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.springcore.Main" />
       <module name="springcore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.springcore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSamosa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springcore.lifecycle.MainSamosa" />
+      <module name="springcore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springcore.lifecycle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainSamosa" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.testcheck" />
         <item itemvalue="Application.testCi" />
